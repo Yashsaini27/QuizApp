@@ -1,0 +1,151 @@
+
+.step-container {
+  max-width: 50%; 
+  margin: 50px auto;
+  background: var(--container-background);
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+
+.step-container h2 {
+  font-size: 28px;
+  color: var(--text-color);
+  margin-bottom: 20px;
+}
+
+.step-container h3 {
+  font-size: 22px;
+  color: var(--text-color);
+  margin-bottom: 10px;
+}
+
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+li {
+  background: var(--option-background);
+  border: 1px solid var(--option-border);
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: var(--text-color);
+}
+
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.btn-retake {
+  background-color: #28a745;
+  color: #fff;
+  margin-right: 10px;
+}
+
+.btn-retake:hover {
+  background-color: #218838;
+}
+
+.btn-return {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.btn-return:hover {
+  background-color: #0056b3;
+}
+
+button:disabled {
+  background-color: #d6d6d6;
+  cursor: not-allowed;
+}
+
+/* Responsive Design for Tablets */
+@media (max-width: 1024px) {
+  .step-container {
+      max-width: 70%; 
+      padding: 25px;
+  }
+
+  .step-container h2 {
+      font-size: 26px;
+  }
+
+  .step-container h3 {
+      font-size: 20px;
+  }
+
+  li {
+      font-size: 17px;
+  }
+
+  button {
+      font-size: 15px;
+  }
+}
+
+/* Responsive Design for Mobile (Width <= 768px) */
+@media (max-width: 768px) {
+  .step-container {
+      max-width: 90%; 
+      padding: 20px;
+      margin: 20px auto;
+  }
+
+  .step-container h2 {
+      font-size: 24px;
+  }
+
+  .step-container h3 {
+      font-size: 18px;
+  }
+
+  li {
+      font-size: 16px;
+  }
+
+  button {
+      width: 100%; 
+      margin: 10px 0;
+      font-size: 16px;
+  }
+}
+
+/* Responsive Design for Small Mobile (Width <= 480px) */
+@media (max-width: 480px) {
+  .step-container {
+      max-width: 95%; 
+      padding: 15px;
+  }
+
+  .step-container h2 {
+      font-size: 22px;
+  }
+
+  .step-container h3 {
+      font-size: 16px;
+  }
+
+  li {
+      font-size: 15px;
+  }
+
+  button {
+      width: 100%;
+      margin: 10px 0;
+      font-size: 14px;
+  }
+}

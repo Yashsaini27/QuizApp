@@ -1,0 +1,155 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Madrid"],
+    "answer": "Paris",
+    "category": "History"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["William Shakespeare", "Charles Dickens", "Mark Twain", "J.K. Rowling"],
+    "answer": "William Shakespeare",
+    "category": "History"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "NaCl", "O2"],
+    "answer": "H2O",
+    "category": "Science"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "answer": "George Washington",
+    "category": "History"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Jupiter", "Saturn", "Earth", "Mars"],
+    "answer": "Jupiter",
+    "category": "Science"
+  },
+  {
+    "question": "What year did the Titanic sink?",
+    "options": ["1912", "1905", "1898", "1923"],
+    "answer": "1912",
+    "category": "History"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Albert Einstein",
+    "category": "Science"
+  },
+  {
+    "question": "Which company is known for creating the iPhone?",
+    "options": ["Apple", "Samsung", "Nokia", "Sony"],
+    "answer": "Apple",
+    "category": "Technology"
+  },
+  {
+    "question": "What does REST stand for in the context of web services?",
+    "options": [
+      "Representational State Transfer",
+      "Reliable State Transfer",
+      "Remote Service Transfer",
+      "Rapid State Transfer"
+    ],
+    "answer": "Representational State Transfer",
+    "category":"Technology"
+  },
+  {
+    "question": "Which technology is commonly used for creating interactive web interfaces?",
+    "options": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "answer": "JavaScript",
+    "category":"Technology"
+  },
+  {
+    "question": "What is the primary function of a web server?",
+    "options": [
+      "To store and manage databases.",
+      "To serve web pages and handle client requests.",
+      "To create and edit web content.",
+      "To manage user authentication."
+    ],
+    "answer": "To serve web pages and handle client requests.",
+    "category":"Technology"
+  },
+
+
+  {
+    
+      "question": "What is the process by which plants make their own food?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Fermentation"
+      ],
+      "answer": "Photosynthesis",
+    "category":"Science"
+  },
+
+  {
+    "question": "What is the chemical symbol for Gold?",
+    "options": [
+      "Au",
+      "Ag",
+      "Pb",
+      "Fe"
+    ],
+    "answer": "Au",
+    "category":"Science"
+     
+  },
+  {
+    "question": "What year did the French Revolution begin?",
+    "options": [
+      "1789",
+      "1776",
+      "1812",
+      "1799"
+    ],
+    "correct_answer": "1789",
+    "category":"History"
+  },
+  {
+    "question": "Who was the leader of the Soviet Union during World War II?",
+    "options": [
+      "Joseph Stalin",
+      "Vladimir Lenin",
+      "Nikita Khrushchev",
+      "Leon Trotsky"
+    ],
+    "answer": "Joseph Stalin",
+    "category":"History"
+  },
+  {
+    "question": "Which empire was ruled by Genghis Khan?",
+    "options": [
+      "Mongol Empire",
+      "Ottoman Empire",
+      "Roman Empire",
+      "Byzantine Empire"
+    ],
+    "answer": "Mongol Empire",
+    "category":"History"
+  },
+  {
+    "question": "What was the primary cause of the American Civil War?",
+    "options": [
+      "Slavery",
+      "Economic differences",
+      "State rights",
+      "Territorial expansion"
+    ],
+    "answer": "Slavery",
+    "category":"History"
+  }
+
+]
