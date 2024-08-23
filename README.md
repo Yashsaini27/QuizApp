@@ -94,6 +94,36 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Future Enhancements: Ideas for additional Feature and Enhancements
+
+1. Advanced Question Types
+  ## Timed Question: 
+  -Question must be answer in specific time limit
+
+## Image/Vedio Question:
+-Support for question that include image or vedio as part of question
+ 
+ ## Drag and Drop:
+ --Implements drag and drop where user can match to correct answer
+
+ 2. Badges and Achievements
+ -- Introduce a system where users can earn badges and achievements based on their performance, such as completing a quiz without any wrong answers or achieving a high score.
+
+ 3. Difficulty Levels: 
+ --Allow users to select the difficulty level of the quiz, offering beginner, intermediate, and advanced levels with corresponding question difficulty.
+
+4. Custom Quizzes:
+--Enable users to create and share their own quizzes by selecting specific categories or topics and setting custom rules (e.g., time limits, number of questions).
+
+5. Leaderboards:
+--Implement global or category-specific leaderboards, where users can see how their scores compare to others.
+
+6. Group Quizzes: 
+--Introduce a multiplayer mode where users can compete in real-time against friends or other users.
+
+
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -123,33 +153,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-## Future Enhancements: Ideas for additional Feature and Enhancements
-
-1. Advanced Question Types
-  ## Timed Question: 
-  -Question must be answer in specific time limit
-
-## Image/Vedio Question:
--Support for question that include image or vedio as part of question
- 
- ## Drag and Drop:
- --Implements drag and drop where user can match to correct answer
-
- 2. Badges and Achievements
- -- Introduce a system where users can earn badges and achievements based on their performance, such as completing a quiz without any wrong answers or achieving a high score.
-
- 3. Difficulty Levels: 
- --Allow users to select the difficulty level of the quiz, offering beginner, intermediate, and advanced levels with corresponding question difficulty.
-
-4. Custom Quizzes:
---Enable users to create and share their own quizzes by selecting specific categories or topics and setting custom rules (e.g., time limits, number of questions).
-
-5. Leaderboards:
---Implement global or category-specific leaderboards, where users can see how their scores compare to others.
-
-6. Group Quizzes: 
---Introduce a multiplayer mode where users can compete in real-time against friends or other users.
 
 
